@@ -46,7 +46,7 @@
     "deepmerge": "^3.0.0",
     "dot-prop-immutable": "^1.5.0",
     "fs-extra": "^7.0.1",
-    "globby": "^8.0.1",
+    "globby": "^9.0.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-header": "^2.0.7",
