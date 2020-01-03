@@ -3,7 +3,7 @@
   "description": "",
   "version": "2.6.51",
   "dependencies": {
-    "@edenjs/admin": "^1.2.15",
+    "@edenjs/admin": "^2.0.0",
     "@edenjs/alert": "^1.0.2",
     "@edenjs/asset": "^2.0.7",
     "@edenjs/cache": "^1.0.0",
